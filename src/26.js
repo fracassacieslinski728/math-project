@@ -1,0 +1,5 @@
+let x = 10;
+function addNumbers(a, b) {
+    return a + b;
+}
+console.log(addNumbers(5, 3));
